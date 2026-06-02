@@ -26,7 +26,7 @@ My ultimate vision is to master core engineering and problem-solving to build im
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aaashishsuthar&show_icons=true&theme=gotham&count_private=true" alt="Aashish's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaashishsuthar&theme=gotham" alt="Aashish's Streak Stats" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaashishsuthar&theme=gotham" alt="Aashish's Profile Details" height="180px" />
 </p>
 
 ---
