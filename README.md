@@ -32,7 +32,7 @@ My ultimate vision is to master core engineering and problem-solving to build im
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** C++, Python, JavaScript
+- **Languages:** C++, Python
 - **Core Areas:** Data Structures & Algorithms (DSA), Computer Science Fundamentals
 - **Tools:** VS Code, Git, GitHub
 
