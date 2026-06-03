@@ -15,7 +15,7 @@ I am a first-year BE Computer Science and Engineering student at Chandigarh Univ
 
 My ultimate vision is to master core engineering and problem-solving to build impactful technology that serves as a national asset for India.
 
-- 🎓 **Education:** Pursuing BE CSE at Chandigarh University, Mohali.
+- 🎓 **Education:** Pursuing BE-Computer Science & Engineering at Chandigarh University, Mohali.
 - 💻 **Core Focus:** Programming Fundamentals, Data Structures, Algorithms (DSA), and Analytical Problem Solving.
 - 🧠 **Exploring Domains:** Artificial Intelligence, Machine Learning, Cloud Computing, and Software Engineering.
 
