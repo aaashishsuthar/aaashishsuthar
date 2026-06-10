@@ -11,7 +11,7 @@
 ---
 
 ## 🌌 About Me
-I am a first-year BE Computer Science and Engineering student at Chandigarh University (2025–2029). I believe in a disciplined, long-term approach to learning and growth, driven by curiosity and hands-on experience. 
+I am a first-year BE Computer Science & Engineering student at Chandigarh University (2025–2029). I believe in a disciplined, long-term approach to learning and growth, driven by curiosity and hands-on experience. 
 
 My ultimate vision is to master core engineering and problem-solving to build impactful technology that serves as a national asset for India.
 
